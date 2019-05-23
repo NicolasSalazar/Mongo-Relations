@@ -1,0 +1,24 @@
+<div class="row">
+    {{#each task}}
+    <div class="col-md-3">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title d-flex justify-content-between aling-items-center">
+                    {{title}}
+                </h4>
+                <p>{{description}}</p>
+                <h3>Usuarios Asignados</h3>
+                <p>{{user}}</p>
+            </div>
+        </div>
+    </div>
+    <!--
+    <div class="card mx-auto">
+        <div class="card-body">
+            <h1>Hola {{user.name}}</h1>
+            <p class="lead">No hay tareas aun</p>
+            <a href="/task/add" class="btn btn-success btn-block">Crea Una</a>
+        </div>
+    </div>-->
+    {{/each}}
+</div>

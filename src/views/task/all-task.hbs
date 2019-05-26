@@ -1,4 +1,7 @@
 <div class="row">
+    {{#each userID}}
+    <h1> {{name }}</h1>
+    {{/each}}
     {{#each task}}
     <div class="col-md-3">
         <div class="card">
@@ -8,17 +11,17 @@
                 </h4>
                 <p>{{description}}</p>
                 <h3>Usuarios Asignados</h3>
-                <p>{{user}}</p>
+                <p>{{user_id}}</p>
             </div>
         </div>
     </div>
-    <!--
+    {{else}}
     <div class="card mx-auto">
         <div class="card-body">
             <h1>Hola {{user.name}}</h1>
             <p class="lead">No hay tareas aun</p>
             <a href="/task/add" class="btn btn-success btn-block">Crea Una</a>
         </div>
-    </div>-->
+    </div>
     {{/each}}
 </div>

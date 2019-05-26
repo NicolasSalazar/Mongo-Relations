@@ -1,0 +1,262 @@
+[
+    {
+        "id": 1,
+        "tipo_recetas": [
+            {
+                "id": 1,
+                "name": "Tocineta piano salteada con salsa agridulce de maracuyá",
+                "imagen": "./RECETAS1/",
+                "url": "https://porkcolombia.co/tocineta-piano-salteada-con-salsa-agridulce-de-maracuya/"
+            },
+            {
+                "id": 2,
+                "name": "Papada de cerdo al ajillo",
+                "imagen": "imagen.png",
+                "url": "https://porkcolombia.co/papada-de-cerdo-al-ajillo/"
+            },
+            {
+                "id": 3,
+                "name": "Cola de cerdo colombiano con espárragos",
+                "imagen": "imagen.png",
+                "url": "https://porkcolombia.co/cola-de-cerdo-colombiano-con-esparragos/"
+            },
+            {
+                "id": 4,
+                "name": "Espagueti con brazuelo de cerdo braseado",
+                "imagen": "./RECETAS1/",
+                "url": "https://porkcolombia.co/espagueti-con-brazuelo-de-cerdo-braseado/"
+            },
+            {
+                "id": 5,
+                "name": "Lentejas con pezuña de cerdo",
+                "imagen": "imagen.png",
+                "url": "https://porkcolombia.co/lentejas-con-pezuna-de-cerdo/"
+            },
+            {
+                "id": 6,
+                "name": "Sopa de vegetales con espinazo de cerdo",
+                "imagen": "imagen.png",
+                "url": "https://porkcolombia.co/sopa-de-vegetales-con-espinazo-de-cerdo/"
+            },
+            {
+                "id": 7,
+                "name": "Filete de pierna con tomate y menta",
+                "imagen": "./RECETAS1/",
+                "url": "https://porkcolombia.co/filete-de-pierna-con-tomate-y-menta/"
+            },
+            {
+                "id": 8,
+                "name": "Frijoles Con Tocino Pierna En Cazuela",
+                "imagen": "imagen.png",
+                "url": "https://porkcolombia.co/frijoles-con-tocino-pierna-en-cazuela/"
+            },
+            {
+                "id": 9,
+                "name": "Chuleta De Brazo A La Griega",
+                "imagen": "imagen.png",
+                "url": "https://porkcolombia.co/chuleta-de-brazo-a-la-griega/"
+            },
+            {
+                "id": 10,
+                "name": "Guiso De Colita De Cerdo",
+                "imagen": "./RECETAS1/",
+                "url": "https://porkcolombia.co/guiso-de-colita-de-cerdo/"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "tipo_recetas": [
+            {
+                "id": 1,
+                "name": "Tocineta piano salteada con salsa agridulce de maracuyá",
+                "imagen": "./RECETAS1/",
+                "url": "https://porkcolombia.co/tocineta-piano-salteada-con-salsa-agridulce-de-maracuya/"
+            },
+            {
+                "id": 2,
+                "name": "Papada de cerdo al ajillo",
+                "imagen": "imagen.png",
+                "url": "https://porkcolombia.co/papada-de-cerdo-al-ajillo/"
+            },
+            {
+                "id": 3,
+                "name": "Cola de cerdo colombiano con espárragos",
+                "imagen": "imagen.png",
+                "url": "https://porkcolombia.co/cola-de-cerdo-colombiano-con-esparragos/"
+            },
+            {
+                "id": 4,
+                "name": "Espagueti con brazuelo de cerdo braseado",
+                "imagen": "./RECETAS1/",
+                "url": "https://porkcolombia.co/espagueti-con-brazuelo-de-cerdo-braseado/"
+            },
+            {
+                "id": 5,
+                "name": "Lentejas con pezuña de cerdo",
+                "imagen": "imagen.png",
+                "url": "https://porkcolombia.co/lentejas-con-pezuna-de-cerdo/"
+            },
+            {
+                "id": 6,
+                "name": "Sopa de vegetales con espinazo de cerdo",
+                "imagen": "imagen.png",
+                "url": "https://porkcolombia.co/sopa-de-vegetales-con-espinazo-de-cerdo/"
+            },
+            {
+                "id": 7,
+                "name": "Filete de pierna con tomate y menta",
+                "imagen": "./RECETAS1/",
+                "url": "https://porkcolombia.co/filete-de-pierna-con-tomate-y-menta/"
+            },
+            {
+                "id": 8,
+                "name": "Frijoles Con Tocino Pierna En Cazuela",
+                "imagen": "imagen.png",
+                "url": "https://porkcolombia.co/frijoles-con-tocino-pierna-en-cazuela/"
+            },
+            {
+                "id": 9,
+                "name": "Chuleta De Brazo A La Griega",
+                "imagen": "imagen.png",
+                "url": "https://porkcolombia.co/chuleta-de-brazo-a-la-griega/"
+            },
+            {
+                "id": 10,
+                "name": "Guiso De Colita De Cerdo",
+                "imagen": "./RECETAS1/",
+                "url": "https://porkcolombia.co/guiso-de-colita-de-cerdo/"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "tipo_recetas": [
+            {
+                "id": 1,
+                "name": "Tocineta piano salteada con salsa agridulce de maracuyá",
+                "imagen": "./RECETAS1/",
+                "url": "https://porkcolombia.co/tocineta-piano-salteada-con-salsa-agridulce-de-maracuya/"
+            },
+            {
+                "id": 2,
+                "name": "Papada de cerdo al ajillo",
+                "imagen": "imagen.png",
+                "url": "https://porkcolombia.co/papada-de-cerdo-al-ajillo/"
+            },
+            {
+                "id": 3,
+                "name": "Cola de cerdo colombiano con espárragos",
+                "imagen": "imagen.png",
+                "url": "https://porkcolombia.co/cola-de-cerdo-colombiano-con-esparragos/"
+            },
+            {
+                "id": 4,
+                "name": "Espagueti con brazuelo de cerdo braseado",
+                "imagen": "./RECETAS1/",
+                "url": "https://porkcolombia.co/espagueti-con-brazuelo-de-cerdo-braseado/"
+            },
+            {
+                "id": 5,
+                "name": "Lentejas con pezuña de cerdo",
+                "imagen": "imagen.png",
+                "url": "https://porkcolombia.co/lentejas-con-pezuna-de-cerdo/"
+            },
+            {
+                "id": 6,
+                "name": "Sopa de vegetales con espinazo de cerdo",
+                "imagen": "imagen.png",
+                "url": "https://porkcolombia.co/sopa-de-vegetales-con-espinazo-de-cerdo/"
+            },
+            {
+                "id": 7,
+                "name": "Filete de pierna con tomate y menta",
+                "imagen": "./RECETAS1/",
+                "url": "https://porkcolombia.co/filete-de-pierna-con-tomate-y-menta/"
+            },
+            {
+                "id": 8,
+                "name": "Frijoles Con Tocino Pierna En Cazuela",
+                "imagen": "imagen.png",
+                "url": "https://porkcolombia.co/frijoles-con-tocino-pierna-en-cazuela/"
+            },
+            {
+                "id": 9,
+                "name": "Chuleta De Brazo A La Griega",
+                "imagen": "imagen.png",
+                "url": "https://porkcolombia.co/chuleta-de-brazo-a-la-griega/"
+            },
+            {
+                "id": 10,
+                "name": "Guiso De Colita De Cerdo",
+                "imagen": "./RECETAS1/",
+                "url": "https://porkcolombia.co/guiso-de-colita-de-cerdo/"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "tipo_recetas": [
+            {
+                "id": 1,
+                "name": "Tocineta piano salteada con salsa agridulce de maracuyá",
+                "imagen": "./RECETAS1/",
+                "url": "https://porkcolombia.co/tocineta-piano-salteada-con-salsa-agridulce-de-maracuya/"
+            },
+            {
+                "id": 2,
+                "name": "Papada de cerdo al ajillo",
+                "imagen": "imagen.png",
+                "url": "https://porkcolombia.co/papada-de-cerdo-al-ajillo/"
+            },
+            {
+                "id": 3,
+                "name": "Cola de cerdo colombiano con espárragos",
+                "imagen": "imagen.png",
+                "url": "https://porkcolombia.co/cola-de-cerdo-colombiano-con-esparragos/"
+            },
+            {
+                "id": 4,
+                "name": "Espagueti con brazuelo de cerdo braseado",
+                "imagen": "./RECETAS1/",
+                "url": "https://porkcolombia.co/espagueti-con-brazuelo-de-cerdo-braseado/"
+            },
+            {
+                "id": 5,
+                "name": "Lentejas con pezuña de cerdo",
+                "imagen": "imagen.png",
+                "url": "https://porkcolombia.co/lentejas-con-pezuna-de-cerdo/"
+            },
+            {
+                "id": 6,
+                "name": "Sopa de vegetales con espinazo de cerdo",
+                "imagen": "imagen.png",
+                "url": "https://porkcolombia.co/sopa-de-vegetales-con-espinazo-de-cerdo/"
+            },
+            {
+                "id": 7,
+                "name": "Filete de pierna con tomate y menta",
+                "imagen": "./RECETAS1/",
+                "url": "https://porkcolombia.co/filete-de-pierna-con-tomate-y-menta/"
+            },
+            {
+                "id": 8,
+                "name": "Frijoles Con Tocino Pierna En Cazuela",
+                "imagen": "imagen.png",
+                "url": "https://porkcolombia.co/frijoles-con-tocino-pierna-en-cazuela/"
+            },
+            {
+                "id": 9,
+                "name": "Chuleta De Brazo A La Griega",
+                "imagen": "imagen.png",
+                "url": "https://porkcolombia.co/chuleta-de-brazo-a-la-griega/"
+            },
+            {
+                "id": 10,
+                "name": "Guiso De Colita De Cerdo",
+                "imagen": "./RECETAS1/",
+                "url": "https://porkcolombia.co/guiso-de-colita-de-cerdo/"
+            }
+        ]
+    }
+]

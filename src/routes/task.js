@@ -43,23 +43,26 @@ router.post('/task/new-task', isAuthenticated, async (req, res) => {
             const updateUser = await UserModelo.update({ cedula: user_id[index] },  {$push:{ task_id: newTask._id } } );
             console.log(updateUser);
         }
-
-
-
-
         req.flash('success_msg', 'Tarea agregada satisfactoriamente');
         res.redirect('/task');
     }
 });
 
 router.get('/task', isAuthenticated, async(req,res ) => {
-    const arrayTask = await Task.find();
+    const task  = await Task.find({user_id: req.user.cedula});
+    console.log("TAREAS__________________")
+    console.log(task);
+    console.log("____________________________")
+    for (let index = 0; index < task.length; index++) {
+        const arraytask = task[index].user_id;
+        for (let i = 0; i < arraytask.length; i++) {
+            const userID = await UserModelo.find({cedula: arraytask[i] });
+            console.log("USER ID");
+            console.log("__________________________");
+            console.log(userID);
+        }
+    }
+    res.render('task/all-task',{task},{userID});
 });
-router.get('/task', isAuthenticated, async (req, res) => {
-    console.log("Hola estas son las tareas");
-    const task = await Task.find().sort({ date: 'desc' });
-    res.render('task/all-task', { task });
-});
-
 
 module.exports = router;
